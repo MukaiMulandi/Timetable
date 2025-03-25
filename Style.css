@@ -1,15 +1,86 @@
- <style>
-        table {
-            width: 100px;
-            border-collapse: collapse;
-        }
-        table, th, td{ 
-            border: 3px solid black;
-            margin: auto;
+body {
+    font-family: sans-serif;
+    background-color: #fdfdfd;
+    margin: 20px;
+    text-align: center;
+    color: #333;
+}
 
-        }
-          td{
-            text-align: center;
-            padding: 10px;
-          }
-    </style>
+table {
+    width: 90%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+thead {
+    background-color: #80ced6;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+thead th {
+    padding: 14px;
+    font-weight: bold;
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+    font-size: 15px;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f0f8ff;
+}
+
+tbody tr:hover {
+    background-color: #d4eaf7;
+    transition: 0.3s;
+}
+.break {
+    background-color: #ffcccb;
+    font-weight: bold;
+    color: #d9534f;
+}
+
+.lunch {
+    background-color: #ffeb99;
+    font-weight: bold;
+    color: #f39c12;
+}
+
+.clubs {
+    background-color: #d1c4e9;
+    font-weight: bold;
+    color: #512da8;
+}
+
+.debate {
+    background-color: #ffb3e6;
+    font-weight: bold;
+    color: #c2185b;
+}
+
+.mind-lecture {
+    background-color: #b3e0ff;
+    font-weight: bold;
+    color: #0277bd;
+}
+
+.games {
+    background-color: #b2dfdb;
+    font-weight: bold;
+    color: #00796b;
+}
+
+
+p {
+    font-size: 14px;
+    color: #555;
+    margin-top: 15px;
+}
+
