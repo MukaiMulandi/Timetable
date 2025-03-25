@@ -41,41 +41,6 @@ tbody tr:hover {
     background-color: #d4eaf7;
     transition: 0.3s;
 }
-.break {
-    background-color: #ffcccb;
-    font-weight: bold;
-    color: #d9534f;
-}
-
-.lunch {
-    background-color: #ffeb99;
-    font-weight: bold;
-    color: #f39c12;
-}
-
-.clubs {
-    background-color: #d1c4e9;
-    font-weight: bold;
-    color: #512da8;
-}
-
-.debate {
-    background-color: #ffb3e6;
-    font-weight: bold;
-    color: #c2185b;
-}
-
-.mind-lecture {
-    background-color: #b3e0ff;
-    font-weight: bold;
-    color: #0277bd;
-}
-
-.games {
-    background-color: #b2dfdb;
-    font-weight: bold;
-    color: #00796b;
-}
 
 
 p {
