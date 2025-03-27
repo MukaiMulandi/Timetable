@@ -8,6 +8,7 @@
     
 </head>
 <body>
+    <img src="Timetable_preview.png" alt="Timetable" style="width: 100%;">
    <h2 style="text-align: center;">Master Timetable for 2024/2025 Academic Year </h2>
    <table>
     <thead>
@@ -139,7 +140,8 @@
     <td>BUS 4</td>
     <td>BUS 4</td>
 </tr>
-<tr>
+
+   <tr>
         <td rowspan="5">WED</td>
     <td>Yr.7</td> 
     <td>SCIENCE 9</td>
@@ -151,7 +153,6 @@
     <td rowspan="5"><b>LUNCH</b></td>
     <td>HIST 1</td>
     <td>ART 18</td>
-    
 <td rowspan="5"><b>CLUBS</b></td>
   </tr>
 
@@ -185,7 +186,6 @@
     <td>BIO 19</td>
     <td>GEO 15</td>
 </tr>
-
 <tr>
     <td>Yr.11</td>
     <td>BUS 4</td>
@@ -197,7 +197,6 @@
     <td>ICT 12</td>
 </tr>
 
-<!-- THURSDAY -->
 <tr>
      <td rowspan="5">THUR</td>
         <td>Yr.7</td>
@@ -222,8 +221,7 @@
         <td>SCIENCE 9</td>
         <td>SCIENCE 9</td>
     </tr>
-
-   <tr>
+    <tr>
         <td>Yr 9</td>
         <td>SCIENCE 9</td>
         <td>ENG 17</td>
@@ -233,7 +231,7 @@
         <td>GEO 15</td>
         <td>BUS 11</td>
        </tr>
-   <tr>
+    <tr>
         <td>Yr 10</td>
         <td>MATH 4</td>
         <td>CHEM 19</td>
@@ -253,9 +251,9 @@
         <td>SWA 13</td>
         <td>SWA 13</td>
        </tr>
-       <!--FRIDAY-->
-       <tr>
-        <td rowspan="5">FRI</td>
+   
+   <tr>
+       <td rowspan="5">FRI</td>
         <td>Yr 7 </td>
         <td>MATH 11</td>
         <td>ICT 2</td>
@@ -268,6 +266,7 @@
         <td>MUSIC 8</td>
         <td rowspan="5"><b>GAMES</b></td>
        </tr>
+
   <tr>
         <td>Yr 8</td>
         <td>ENG 17</td>
@@ -278,7 +277,7 @@
         <td>ICT 2</td>
         <td>ICT 2</td>
        </tr>
-       <tr>
+  <tr>
         <td>Yr 9</td>
         <td>GEO 15</td>
         <td>MATH 4</td>
@@ -288,7 +287,7 @@
         <td>BUS 11</td>
         <td>SWA 13/ FRE 5/ CH 16</td>
        </tr>
-       <tr>
+  <tr>
         <td>Yr 10</td>
         <td>ICT 2/ SWA 13</td>
         <td>HIST 10</td>
@@ -298,7 +297,7 @@
         <td>BUS 15/ CH 16/ FRE 5</td>
         <td>BIO 19</td>
        </tr>
-  <tr>
+ <tr>
         <td>Yr 11</td>
         <td>BIO 3</td>
         <td>BIO 3</td>
@@ -313,6 +312,3 @@
    <p>1 Jackline; 2 Joseph; 3 Pauline; 4 Ken; 5 Brillian; 6 Philip; 7 Ann; 8 Maua; 9 Kibwana; 10 Stephen; 11 Amos; 12 Maureen; 13 Joel; 14 Evans; 15 Fred; 16 Allan; 17 Jilian; 18 Oliver; 19 Karen</p>
 </body>
 </html>
-
-
-  
